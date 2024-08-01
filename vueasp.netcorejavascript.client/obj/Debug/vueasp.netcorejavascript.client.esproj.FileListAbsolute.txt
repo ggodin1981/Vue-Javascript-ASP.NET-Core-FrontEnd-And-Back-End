@@ -1,0 +1,1 @@
+G:\GitHubProject\VueASP.NETCoreJavaScript\vueasp.netcorejavascript.client\obj\Debug\vueasp.netcorejavascript.client.esproj.CoreCompileInputs.cache

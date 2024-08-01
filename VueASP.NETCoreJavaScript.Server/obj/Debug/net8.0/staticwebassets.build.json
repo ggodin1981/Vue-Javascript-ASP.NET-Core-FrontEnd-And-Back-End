@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "GKQqZp/FshAfJhyJhz8nbcNKRREPQcFf9/TgbCCiGDU=",
+  "Source": "VueASP.NETCoreJavaScript.Server",
+  "BasePath": "_content/VueASP.NETCoreJavaScript.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "G:\\GitHubProject\\VueASP.NETCoreJavaScript\\vueasp.netcorejavascript.client\\vueasp.netcorejavascript.client.esproj",
+      "Version": 2,
+      "Source": "vueasp.netcorejavascript.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
